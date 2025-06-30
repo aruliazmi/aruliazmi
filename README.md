@@ -8,7 +8,7 @@
 ### 🔧 Tech Stack
 - 💻 Languages: Python, Shell, PHP, NodeJS
 - 🔗 Tools: Git, MySQL, Docker, Discord.py, Tailwind, Bash
-- ⚙️ Currently exploring: DevOps, Dockerizing Legacy Apps, Game Hosting Automation
+- ⚙️ Currently exploring: DevOps, Dockerizing Legacy Apps, Game Hosting Automation, Web App
 
 ---
 
