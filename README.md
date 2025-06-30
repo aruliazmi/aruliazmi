@@ -22,6 +22,10 @@
 ### 📈 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aruliazmi&layout=compact&theme=tokyonight&hide_title=true" alt="Top Languages" />
+</p>
+
+<p align="center">
   <img src="https://ghchart.rshah.org/aruliazmi" alt="GitHub chart" />
 </p>
 
@@ -31,10 +35,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aruliazmi&theme=tokyonight&hide_title=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aruliazmi&layout=compact&theme=tokyonight&hide_title=true" alt="Top Languages" />
 </p>
 
 ---
