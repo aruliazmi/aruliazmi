@@ -22,11 +22,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aruliazmi&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
+  <img src="https://ghchart.rshah.org/aruliazmi" alt="GitHub chart" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aruliazmi&layout=compact&theme=tokyonight&hide_title=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aruliazmi&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -34,15 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aruliazmi&theme=darkhub&no-frame=true&column=4" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aruliazmi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/aruliazmi" alt="GitHub chart" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aruliazmi&layout=compact&theme=tokyonight&hide_title=true" alt="Top Languages" />
 </p>
 
 ---
