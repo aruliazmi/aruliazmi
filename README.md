@@ -20,7 +20,18 @@
 ---
 
 ### 📈 GitHub Stats
-![Aruli's GitHub stats](https://github-readme-stats.vercel.app/api?username=aruliazmi&show_icons=true&theme=github_dark&hide_title=true)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aruliazmi&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aruliazmi&layout=compact&theme=tokyonight&hide_title=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aruliazmi&theme=tokyonight&hide_title=true" alt="GitHub Streak" />
+</p>
 
 ---
 
