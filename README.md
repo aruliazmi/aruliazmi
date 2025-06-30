@@ -26,10 +26,6 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/aruliazmi" alt="GitHub chart" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aruliazmi&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
 </p>
 
