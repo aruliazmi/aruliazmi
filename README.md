@@ -33,6 +33,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aruliazmi&theme=tokyonight&hide_title=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aruliazmi&theme=darkhub&no-frame=true&column=4" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aruliazmi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/aruliazmi" alt="GitHub chart" />
+</p>
+
 ---
 
 ### 🌐 Website & Contact
