@@ -16,6 +16,7 @@
 - [auto-backup-db-discord](https://github.com/aruliazmi/auto-backup-db-discord) – Automatically backup MySQL database and send to Discord.
 - [open-mp-eggs](https://github.com/aruliazmi/open-mp-eggs) – Docker eggs for running SA-MP OpenMP servers.
 - [bang-bikin-bang](https://github.com/aruliazmi/bang-bikin-bang) – bot discord for samp ucp handle using whatsapp for verification code.
+- [grow-garden-bot](https://github.com/aruliazmi/grow-garden-bot) – GrowGarden Stock & Rare Alert Bot Telegram Using Python.
 - [aruliazmi](https://github.com/aruliazmi/aruliazmi) – This GitHub profile README!
 
 ---
