@@ -15,7 +15,7 @@
 ### 📌 Pinned Projects
 - [auto-backup-db-discord](https://github.com/aruliazmi/auto-backup-db-discord) – Automatically backup MySQL database and send to Discord.
 - [open-mp-eggs](https://github.com/aruliazmi/open-mp-eggs) – Docker eggs for running SA-MP OpenMP servers.
-- [bang-bikin-bang]([https://github.com/aruliazmi/open-mp-eggs](https://github.com/aruliazmi/bang-bikin-bang)) – bot discord for samp ucp handle using whatsapp for verification code.
+- [bang-bikin-bang](https://github.com/aruliazmi/bang-bikin-bang) – bot discord for samp ucp handle using whatsapp for verification code.
 - [aruliazmi](https://github.com/aruliazmi/aruliazmi) – This GitHub profile README!
 
 ---
