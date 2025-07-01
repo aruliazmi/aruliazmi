@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aruliazmi&theme=tokyonight&hide_title=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aruliazmi" alt="GitHub Streak" />
 </p>
 
 ---
