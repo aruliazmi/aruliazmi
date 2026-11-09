@@ -75,9 +75,9 @@ Provider model buat Hermes Agent yang jalan di atas langganan Qoder, lewat `qode
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aruliazmi&layout=compact&theme=tokyonight&hide_title=true&hide_border=true" alt="Top Languages" />
+<img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aruliazmi&theme=tokyonight" alt="Ringkasan kontribusi" />
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=aruliazmi&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" alt="GitHub Stats" />
+<img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aruliazmi&theme=tokyonight" alt="Statistik" />
 
 </div>
 
