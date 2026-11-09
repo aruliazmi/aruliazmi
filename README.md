@@ -1,75 +1,50 @@
-<div align="center">
-
 # Aruli Azmi
 
-**Backend dan infra tinkerer, Bekasi, Indonesia**
+Backend dan infra tinkerer dari Bekasi. Sehari-hari ngurus server automation, game hosting,
+bot operasional, dan tooling kecil yang motong kerjaan repetitif.
 
-Server automation, game hosting, bot, dan tooling yang bikin kerjaan repetitif berhenti jadi kerjaan.
-
-[![Instagram](https://img.shields.io/badge/@4razzm-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/4razzm)
-[![Location](https://img.shields.io/badge/Bekasi-Indonesia-2ea44f?style=flat-square&logo=googlemaps&logoColor=white)](#)
-
-</div>
-
----
-
-### Fokus sekarang
-
-Bikin SA-MP / open.mp jalan di Android dan di Linux tanpa drama. Artinya client Android yang
-lolos Android 15/16, panel Pterodactyl yang bisa jalanin binary Windows lewat Wine, dan
-otomasi backup serta monitoring yang nggak perlu diingetin tiap hari.
+Sekarang paling banyak ngulik SA-MP / open.mp biar enak jalan di Android dan Linux: client
+Android yang lolos Android 15 dan 16, panel Pterodactyl yang bisa ngejalanin binary Windows
+lewat Wine, plus otomasi backup dan monitoring yang nggak perlu diingetin tiap hari.
 
 Sebelumnya lebih banyak di bot Discord dan Telegram buat operasional server roleplay:
 registrasi UCP, verifikasi OTP WhatsApp, anti-raid, dan monitoring status server.
 
----
+## Yang biasa dipakai
 
-### Yang dipakai
-
-| | |
-|---|---|
-| **Bahasa** | Python, Shell/Bash, JavaScript (Node), PHP |
-| **Infra dan data** | Docker, MySQL/MariaDB, Linux (Debian/Ubuntu), Nginx |
-| **Tooling** | Git, Pterodactyl Wings dan Eggs, Wine headless, Android NDK dan CMake |
-| **Bot dan API** | Discord.js, Telegram Bot API, Fonnte (WhatsApp), Tailwind |
-
----
+Bahasa harian Python, Bash, Node, dan PHP. Infranya Docker, MySQL/MariaDB, Linux (Debian dan
+Ubuntu), Nginx. Yang paling sering kebuka: Pterodactyl Wings dan Eggs, Wine headless, Android
+NDK dan CMake. Buat bot dan integrasi: Discord.js, Telegram Bot API, Fonnte buat WhatsApp.
 
 ## Proyek
 
-### Android SA-MP client
-
-Client Android buat server SA-MP / open.mp 0.3.DL. Launcher custom, mod loader AML, UI CEF,
-dan downloader custom model 0.3.DL yang narik DFF/TXD langsung dari CDN server.
-
-Disiapkan buat Android 15 dan 16, semua library bawaan sudah menyesuaikan page size 16 KB
-sehingga nggak kena blokir pas instal.
-
+**[Client Android SA-MP](https://github.com/aruliazmi/eastside-client).** Client buat server
+SA-MP / open.mp 0.3.DL. Launcher custom, mod loader AML, UI CEF, dan downloader model 0.3.DL
+yang narik DFF/TXD langsung dari CDN server. Library bawaannya sudah disiapin buat page size
+16 KB, jadi nggak kena blokir pas instal di Android 15 dan 16.
 `Android` `C/C++` `Java` `CMake`
 
-### OpenMP di Pterodactyl (Wine)
-
-Egg Pterodactyl plus custom Docker image buat jalanin OpenMP server `.exe` (binary Windows)
-di lingkungan Linux. Wine headless, jadi panel-nya nggak sadar dia bukan Linux native.
-
+**[OpenMP di Pterodactyl lewat Wine](https://github.com/aruliazmi/open-mp-eggs).** Egg
+Pterodactyl plus image Docker custom buat ngejalanin OpenMP server `.exe` di lingkungan Linux.
+Wine-nya headless, panelnya nggak sadar yang jalan bukan binary Linux native.
 `Shell` `Docker` `Pterodactyl` `Wine`
 
-### Hermes Agent on Qoder
+**[Hermes Agent on Qoder](https://github.com/aruliazmi/hermes-qoder-acp).** Provider model buat
+Hermes Agent yang jalan di atas langganan Qoder, lewat `qodercli` dan ACP. `Python`
 
-Provider model buat Hermes Agent yang jalan di atas langganan Qoder, lewat `qodercli` dan ACP.
+Bot operasional:
 
-`Python` `MIT`
-
-### Bot operasional
-
-| Proyek | Isi | Stack |
-|---|---|---|
-| **Araz BOT** | Anti-raid Discord plus sistem UCP: registrasi, verifikasi OTP WhatsApp, refund role, announce dari WA, monitoring status server SA-MP tiap 10 detik | Discord.js, MySQL |
-| **Bang Bikin Bang** | Registrasi UCP lewat verifikasi OTP WhatsApp, validasi username dan nomor HP (awalan `62`) serta umur akun Discord minimal 7 hari | Discord.js, Sequelize, Fonnte |
-| **GrowGarden Alert** | Bot Telegram pemantau stok dan item rare GrowGarden tiap 5 detik, countdown restock per kategori | Python, Telegram API |
-| **Auto Backup DB** | Backup MySQL otomatis, hasilnya dikirim ke Discord | Node.js |
-
----
+- **[Araz BOT](https://github.com/aruliazmi/bot-diskort)** — anti-raid Discord plus sistem UCP:
+  registrasi, verifikasi OTP WhatsApp, refund role, announce dari WA, dan monitoring status
+  server SA-MP tiap 10 detik. `Discord.js` `MySQL`
+- **[Bang Bikin Bang](https://github.com/aruliazmi/bang-bikin-bang)** — registrasi UCP lewat
+  verifikasi OTP WhatsApp, validasi username dan nomor HP awalan `62`, plus umur akun Discord
+  minimal 7 hari. `Discord.js` `Sequelize` `Fonnte`
+- **[GrowGarden Alert](https://github.com/aruliazmi/grow-garden-bot)** — bot Telegram pemantau
+  stok dan item rare GrowGarden, cek tiap 5 detik, countdown restock per kategori.
+  `Python` `Telegram API`
+- **[Auto Backup DB](https://github.com/aruliazmi/autobackup)** — backup MySQL otomatis,
+  hasilnya dikirim ke Discord. `Node.js`
 
 ## Aktivitas
 
@@ -81,10 +56,6 @@ Provider model buat Hermes Agent yang jalan di atas langganan Qoder, lewat `qode
 
 </div>
 
----
+Ada yang mau ditanyain soal SA-MP di Android, Pterodactyl, atau bot? DM aja.
 
-<div align="center">
-
-<sub>Ada yang mau ditanyain soal SA-MP di Android, Pterodactyl, atau bot? DM aja.</sub>
-
-</div>
+[Instagram](https://instagram.com/4razzm)
